@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammed_alsalim
+- 👋 Hi, this is @mRepublic
 - 👀 I’m interested in data_analysis, javascript, web_devlopment
 - 🌱 I’m currently learning data_analysis
 - 💞️ I’m looking to collaborate on data_analysis and javascript
